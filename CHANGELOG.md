@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-07-10
+
+### Changed
+- Footer privacy line now uses a period instead of an em dash, for consistency across the apps.
+
 ## [1.0.0] - 2026-07-10
 
 ### Added
@@ -19,5 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - "Back to home" link now points to `https://riverma.com/`.
 
-[Unreleased]: https://github.com/riverma/math/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/riverma/math/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/riverma/math/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/riverma/math/releases/tag/v1.0.0

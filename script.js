@@ -45,7 +45,7 @@
             blurbGood: 'Nice try — keep going.',
             blurbKeep: 'Keep practicing.',
             confirmExit: 'Exit the game and go back to the main menu?',
-            privacy: 'No data collected · no tracking · runs entirely on your device — 100% private.'
+            privacy: 'No data collected · no tracking · runs entirely on your device. 100% private.'
         },
         es: {
             appTitle: 'Cálculo Mental',
@@ -90,7 +90,7 @@
             blurbGood: 'Buen intento — sigue así.',
             blurbKeep: 'Sigue practicando.',
             confirmExit: '¿Salir del juego y volver al menú principal?',
-            privacy: 'Sin recopilación de datos · sin rastreo · funciona 100% en tu dispositivo — totalmente privado.'
+            privacy: 'Sin recopilación de datos · sin rastreo · funciona 100% en tu dispositivo. Totalmente privado.'
         }
     };
 
