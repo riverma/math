@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-07-10
+
+### Added
+- Install helper: opening the app with `#install` (from apps.riverma.com) shows an install prompt or Add-to-Home-Screen guidance, so the launcher's Install button installs this app correctly.
+
 ## [1.0.1] - 2026-07-10
 
 ### Changed
@@ -24,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - "Back to home" link now points to `https://riverma.com/`.
 
-[Unreleased]: https://github.com/riverma/math/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/riverma/math/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/riverma/math/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/riverma/math/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/riverma/math/releases/tag/v1.0.0
